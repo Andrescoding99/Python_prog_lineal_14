@@ -1,0 +1,3 @@
+Tarea 01-06
+
+Para la tarea se debe investigar la funcion round, esta es para redondear numeros.
